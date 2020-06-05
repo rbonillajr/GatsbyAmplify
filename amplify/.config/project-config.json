@@ -7,8 +7,8 @@
         "config": {
             "SourceDir": "src",
             "DistributionDir": "build",
-            "BuildCommand": "gatsby build",
-            "StartCommand": "run develop"
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script develop"
         }
     },
     "providers": [
