@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "MapxplorGraphql",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-gatsbyamplify-dev-172516-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/1981ce46dbb557d1f915e0ec43a07eb61ba056b4"
+}
